@@ -1,8 +1,12 @@
 # Platform Challenge App
 
-## Example
+### Example
 
 Platform developed to perform API consumption tests with demo in Dashboard.
+
+![Image 1](https://github.com/andreterebinto/challangeapp/blob/main/imgReadme/screen1.png?raw=true )
+![Image 2](https://github.com/andreterebinto/challangeapp/blob/main/imgReadme/screen2.png?raw=true)
+![Image 3](https://github.com/andreterebinto/challangeapp/blob/main/imgReadme/screen3.png?raw=true)
 
 #### Frameworks and tools used
 
